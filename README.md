@@ -1,5 +1,7 @@
 # JSON2FormData
 
+[![Build Status](https://travis-ci.org/JonathonMA/json2formdata.svg?branch=master)](https://travis-ci.org/JonathonMA/json2formdata)
+
 Converts a JSON encoded hash to application/x-www-form-urlencoded
 
 ## Installation
