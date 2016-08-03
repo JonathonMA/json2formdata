@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Jonathon M. Abbott"]
   spec.email         = ["jonathona@everydayhero.com.au"]
 
-  spec.summary       = "TODO: Write a short summary, because Rubygems requires one."
-  spec.description   = "TODO: Write a longer description or delete this line."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = "convert a JSON document into form data"
+  spec.description   = spec.summary
+  spec.homepage      = "https://github.com/JonathonMA/json2formdata"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
